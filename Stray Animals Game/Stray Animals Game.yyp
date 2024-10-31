@@ -46,7 +46,7 @@
     {"id":{"name":"obj_computer_popup","path":"objects/obj_computer_popup/obj_computer_popup.yy",},},
     {"id":{"name":"spr_computer","path":"sprites/spr_computer/spr_computer.yy",},},
     {"id":{"name":"spr_cat_cage","path":"sprites/spr_cat_cage/spr_cat_cage.yy",},},
-    {"id":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},},
+    {"id":{"name":"obj_animal","path":"objects/obj_animal/obj_animal.yy",},},
     {"id":{"name":"spr_button_vaccine","path":"sprites/spr_button_vaccine/spr_button_vaccine.yy",},},
     {"id":{"name":"spr_food","path":"sprites/spr_food/spr_food.yy",},},
     {"id":{"name":"spr_computer_popup","path":"sprites/spr_computer_popup/spr_computer_popup.yy",},},

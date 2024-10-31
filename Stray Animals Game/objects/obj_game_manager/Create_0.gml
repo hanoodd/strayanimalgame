@@ -3,7 +3,7 @@
 
 global.money = 1500;
 
-global.cat_health = 20;
+global.animal_health = 0;
 
 
 

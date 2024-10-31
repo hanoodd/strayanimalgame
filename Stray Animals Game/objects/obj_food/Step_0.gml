@@ -6,10 +6,10 @@ x = lerp(x,mouse_x,0.1);
 y = lerp(y,mouse_y,0.1);
 
 
-
-if (mouse_check_button(mb_left) and position_meeting(mouse_x,mouse_y,obj_cat)) {
+// different types of food, have to do things to get items for the animal
+if (obj_animal.sprite_index == spr_cat and device_mouse_check_button_pressed(0, mb_left) and position_meeting(mouse_x,mouse_y,obj_animal)) {
 	instance_destroy(self);
-	global.cat_health += 15;
+	global.animal_health += 15;
 }
 
 
