@@ -12,6 +12,7 @@ if device_mouse_check_button_pressed(0, mb_left) and position_meeting(mouse_x,mo
 if (global.animal_health < 100) {
 	x = lerp(x, room_width/2, 0.03);
 } else if (global.animal_health >= 100) {
+	
 	x = lerp(x , room_width + 150, 0.05);
 }
 
@@ -19,4 +20,7 @@ if (global.animal_health < 100) {
 if x >= room_width + 145 {
 	instance_destroy();
 	global.animal_created = false;
+	obj_computer.notif = true;
+	global.text_num +=1;
+	show_debug_message(obj_computer_popup.text_num);
 }

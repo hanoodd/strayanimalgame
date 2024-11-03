@@ -7,7 +7,7 @@ global.animal_health = 0;
 
 
 
-
+global.text_num = 0;
 
 
 

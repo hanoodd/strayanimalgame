@@ -37,6 +37,7 @@
     {"id":{"name":"spr_cat","path":"sprites/spr_cat/spr_cat.yy",},},
     {"id":{"name":"spr_button_food","path":"sprites/spr_button_food/spr_button_food.yy",},},
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},},
+    {"id":{"name":"spr_notification","path":"sprites/spr_notification/spr_notification.yy",},},
     {"id":{"name":"obj_food","path":"objects/obj_food/obj_food.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"obj_button_food","path":"objects/obj_button_food/obj_button_food.yy",},},

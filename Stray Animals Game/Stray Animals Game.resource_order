@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_cat","order":3,"path":"sprites/spr_cat/spr_cat.yy",},
     {"name":"spr_button_food","order":6,"path":"sprites/spr_button_food/spr_button_food.yy",},
+    {"name":"spr_notification","order":8,"path":"sprites/spr_notification/spr_notification.yy",},
     {"name":"obj_food","order":7,"path":"objects/obj_food/obj_food.yy",},
     {"name":"spr_bg","order":2,"path":"sprites/spr_bg/spr_bg.yy",},
     {"name":"obj_button_food","order":5,"path":"objects/obj_button_food/obj_button_food.yy",},
