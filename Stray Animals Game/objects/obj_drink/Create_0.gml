@@ -1,9 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-instance_create_layer(mouse_x,mouse_y,"Instances",obj_food)
 
-global.money -= 5;
+image_xscale = 0.4;
+image_yscale = 0.4;
+
+depth = -1;
+
 
 
 

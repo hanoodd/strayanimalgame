@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_button_vaccine",
+  "name": "obj_button_drink",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_button_vaccine",
-    "path": "sprites/spr_button_vaccine/spr_button_vaccine.yy",
+    "name": "spr_button_drink",
+    "path": "sprites/spr_button_drink/spr_button_drink.yy",
   },
   "spriteMaskId": null,
   "visible": true,

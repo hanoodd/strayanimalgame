@@ -22,5 +22,4 @@ if x >= room_width + 145 {
 	global.animal_created = false;
 	obj_computer.notif = true;
 	global.text_num +=1;
-	show_debug_message(obj_computer_popup.text_num);
 }

@@ -8,7 +8,8 @@ y = lerp(y,mouse_y,0.1);
 if (obj_animal.sprite_index == spr_cat and device_mouse_check_button_pressed(0, mb_left) and position_meeting(mouse_x,mouse_y,obj_animal)) {
 	instance_destroy(self);
 	
-	if (global.text_num == 0 or global.text_num == 2 or global.text_num == 3)  {
+	//katy
+	if (global.text_num == 0 or global.text_num == 3)  {
 		global.animal_health += 25;
 	} else {
 		global.animal_health += 5;
