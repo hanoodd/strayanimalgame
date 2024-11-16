@@ -8,6 +8,8 @@ image_yscale = 1.1;
 
 move_speed = 6;
 
+healed = false;
+
 
 
 
