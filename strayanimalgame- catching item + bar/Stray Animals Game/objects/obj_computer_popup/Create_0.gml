@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-image_xscale = 3;
-image_yscale = 3;
+image_xscale = 10;
+image_yscale = 10;
 
 depth = -1;
 
